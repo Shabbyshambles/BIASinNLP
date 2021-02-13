@@ -14,3 +14,11 @@ https://learning.oreilly.com/library/view/hands-on-machine-learning/978149203263
 ## Research papers 
 - Double-Hard Debias:Tailoring Word Embeddings for Gender Bias Mitigation
 - Proceedings of the First Workshop on Gender Bias in Natural Language Processing
+
+## Week 1 - 2
+- Have an in-depth Understanding of the following concepts
+   - Logistic Regression, Linear Regression, and Neural Network.
+   - Loss functions for classification
+   - Activation functions
+- Read PCA and CNN and how they  work. 
+- Implement a Logistic Regression and Neural Network in Keras.
