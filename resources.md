@@ -23,7 +23,7 @@ https://learning.oreilly.com/library/view/hands-on-machine-learning/978149203263
 - Read PCA and CNN and how they  work. 
 - Implement a Logistic Regression and Neural Network in Keras.
 
-## Week 3, Due Feb 26
+## Week 3, due Feb 26
 - Book chapters
   - Chapter 13. Loading and Preprocessing Data with TensorFlow
   - Chapter 15. Processing Sequences Using RNNs and CNNs
