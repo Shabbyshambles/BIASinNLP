@@ -22,3 +22,17 @@ https://learning.oreilly.com/library/view/hands-on-machine-learning/978149203263
    - Activation functions
 - Read PCA and CNN and how they  work. 
 - Implement a Logistic Regression and Neural Network in Keras.
+
+## Week 3, Due Feb 26
+- Book chapters
+  - Chapter 13. Loading and Preprocessing Data with TensorFlow
+  - Chapter 15. Processing Sequences Using RNNs and CNNs
+  - Chapter 16. Natural Language Processing with RNNs and Attention
+
+- Articles and papers on BIAS
+  - http://web.cs.ucla.edu/~kwchang/talks/emnlp19-fairnlp/
+  - Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. 2016. Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word -     Embeddings. NIPS 2016. 
+  - Ninareh Mehrabi, Thamme Gowda, Fred Morstatter, Nanyun Peng, Aram Galstyan. 2019. Man is to Person as Woman is to Location: Measuring Gender Bias in Named Entity Recognition.
+  - Vaibhav Kumar, Tenzin Singhay Bhotia, Vaibhav Kumar, Tanmoy Chakraborty. 2020 Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings. TACL. 
+- Code in Github
+  -  Logistic Regression and Neural Network in Keras.
